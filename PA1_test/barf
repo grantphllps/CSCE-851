@@ -1,0 +1,2 @@
+This goes to the standard output too.
+And now any time I print to stdout, it goes to fd
