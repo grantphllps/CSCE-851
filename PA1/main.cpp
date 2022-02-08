@@ -22,8 +22,12 @@
 #include "command.hpp"
 #include "parser.hpp"
 
-#define MAX_ALLOWED_LINES 25
+#include <stdlib.h>
+#include <stdio.h>
+#include <fcntl.h>
 
+#define MAX_ALLOWED_LINES 25
+//ostream_mode file_comp = ostream_mode::file;
 int main()
 {
     std::string input_line;
@@ -72,6 +76,25 @@ int main()
                     }
                     else if (pid == 0) {
                         //printf("I am the child %d\n",pid);
+                        
+                        /* After the fork, need to check if the output or input needs redirected */
+                        int fd;	// file descriptor
+                        if (cmd.cout_mode == ostream_mode::file) {
+                            if ((fd = open(cmd.cout_file.c_str(), O_CREAT|O_TRUNC|O_WRONLY, 0644)) < 0) {
+				                //perror(argv[1]);	/* open failed */
+				                exit(1);
+		                    }
+                            dup2(fd,STDOUT_FILENO);
+                            //printf("writing output of the command %s to \"%s\"\n", cmd.cmd.c_str(), cmd.cout_file.c_str());
+                        }
+                        else if (cmd.cout_mode == ostream_mode::append) {
+                            if ((fd = open(cmd.cout_file.c_str(), O_CREAT|O_APPEND|O_WRONLY, 0644)) < 0) {
+				                //perror(argv[1]);	/* open failed */
+				                exit(1);
+		                    }
+                            dup2(fd,STDOUT_FILENO);
+                        }
+
                         execvp(argumentList[0], argumentList); //execvp the command with parameters
                     }
                     else {
