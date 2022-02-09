@@ -57,7 +57,7 @@ int main()
                     /* Convert the string of vectors to an arrary of Character arrays for execvp */
                     int n = argumentCopy.size();
                     char ** argumentList = new char*[n+1];
-                    for(size_t i = 0; i < argumentCopy.size(); i++){
+                    for(size_t i = 0; i < argumentCopy.size(); i++) {
                         argumentList[i] = new char[argumentCopy[i].size() + 1];
                         strcpy(argumentList[i], argumentCopy[i].c_str());
                     }
@@ -94,6 +94,14 @@ int main()
 		                    }
                             dup2(fd,STDOUT_FILENO);
                         }
+                        else if (cmd.cin_mode == istream_mode::file) {
+                            //std::cout << "File input" << std::endl;
+                            if ((fd = open(cmd.cin_file.c_str(), O_RDONLY, 0644)) < 0) {
+				                //perror(argv[1]);	/* open failed */
+				                exit(1);
+		                    }
+                            dup2(fd,STDIN_FILENO);
+                        }
 
                         execvp(argumentList[0], argumentList); //execvp the command with parameters
                     }
@@ -101,7 +109,7 @@ int main()
                         // printf("I am the parent %d\n",pid);
                         wait(NULL);
                         // printf("Child Complete\n");
-    }
+                    }           
             }
 
             //Print the list of commands.
@@ -118,4 +126,3 @@ int main()
 
     std::cout << std::endl;
 }
-  //added a dumb comment
