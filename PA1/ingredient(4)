@@ -1,0 +1,6789 @@
+-------------------------
+cmd: std::vector
+cin_file: std::string
+cin_mode: file
+cout_file: ingredient(4)
+cout_mode: file
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: ingredient[0]
+arg: =
+arg: "eggs"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[1]
+arg: =
+arg: "milk"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[2]
+arg: =
+arg: "cheese"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[2]
+arg: =
+arg: "cheese"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[1]
+arg: =
+arg: "milk"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[2]
+arg: =
+arg: "cheese"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[2]
+arg: =
+arg: "cheese"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[0]
+arg: =
+arg: "eggs"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[1]
+arg: =
+arg: "milk"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[2]
+arg: =
+arg: "cheese"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[2]
+arg: =
+arg: "cheese"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[1]
+arg: =
+arg: "milk"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[2]
+arg: =
+arg: "cheese"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[2]
+arg: =
+arg: "cheese"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: ingredient[3]
+arg: =
+arg: "butter"
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: auto
+arg: it
+arg: =
+arg: ingredient.insert(ingredient.begin(),"flour")
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> -------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: //auto
+arg: it
+arg: =
+arg: vec.insert(vec.begin(),
+arg: 3)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Invalid NULL command
+osh> -------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+
+-------------------------
+cmd: for
+arg: (std::string
+arg: ing:
+arg: ingredient)
+cin_file: 
+cin_mode: term
+cout_file: 
+cout_mode: term
+next_mode: always
+-------------------------
+osh> osh: Expecting an input path
+osh> osh: Invalid NULL command
+

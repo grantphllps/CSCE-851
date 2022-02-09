@@ -62,11 +62,6 @@ int main()
                         strcpy(argumentList[i], argumentCopy[i].c_str());
                     }
                     argumentList[n] = NULL; //argument list must be null terminated
-
-                    //Debugging
-                    // for (int i = 0; i < argumentCopy.size(); i++) {
-                    //     std::cout << "|" << argumentList[i] << "|" << std::endl;
-                    // }
                     
                     //////////// fork a child process //////////
                     pid = fork();
@@ -79,13 +74,12 @@ int main()
                         
                         /* After the fork, need to check if the output or input needs redirected */
                         int fd;	// file descriptor
-                        if (cmd.cout_mode == ostream_mode::file) {
+                        if (cmd.cout_mode == ostream_mode::file) { /* redirect output to a file */
                             if ((fd = open(cmd.cout_file.c_str(), O_CREAT|O_TRUNC|O_WRONLY, 0644)) < 0) {
 				                //perror(argv[1]);	/* open failed */
 				                exit(1);
 		                    }
                             dup2(fd,STDOUT_FILENO);
-                            //printf("writing output of the command %s to \"%s\"\n", cmd.cmd.c_str(), cmd.cout_file.c_str());
                         }
                         else if (cmd.cout_mode == ostream_mode::append) {
                             if ((fd = open(cmd.cout_file.c_str(), O_CREAT|O_APPEND|O_WRONLY, 0644)) < 0) {
@@ -97,7 +91,7 @@ int main()
                         else if (cmd.cin_mode == istream_mode::file) {
                             //std::cout << "File input" << std::endl;
                             if ((fd = open(cmd.cin_file.c_str(), O_RDONLY, 0644)) < 0) {
-				                //perror(argv[1]);	/* open failed */
+				                perror(cmd.cin_file.c_str());	/* open failed */
 				                exit(1);
 		                    }
                             dup2(fd,STDIN_FILENO);
@@ -113,11 +107,11 @@ int main()
             }
 
             //Print the list of commands.
-            std::cout << "-------------------------\n";
-            for (const auto& cmd : shell_commands) {
-                std::cout << cmd;
-                std::cout << "-------------------------\n";
-            }
+            // std::cout << "-------------------------\n";
+            // for (const auto& cmd : shell_commands) {
+            //     std::cout << cmd;
+            //     std::cout << "-------------------------\n";
+            // }
         }
         catch (const std::runtime_error& e) {
             std::cout << "osh: " << e.what() << "\n";
