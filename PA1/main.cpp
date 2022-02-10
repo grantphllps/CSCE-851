@@ -18,6 +18,7 @@
 #include <string>
 #include <vector>
 #include <unistd.h>
+#include <sys/wait.h>
 
 #include "command.hpp"
 #include "parser.hpp"
@@ -44,14 +45,23 @@ int main()
         try {
             // Parse the input line, store the shell commands the vector
             std::vector<shell_command> shell_commands = parse_command_string(input_line);
-
+            int wstatus = 0; //initalize the status to go execute the first command
+            bool alwaysExecuteNext = true; //this is an override flag to indicate that the next command should always execute
+            //After the shell commands are parsed, execute each of the commands in the vector:
             for (const auto& cmd : shell_commands) {
-
+                if (cmd.next_mode == next_command_mode::always) {
+                        alwaysExecuteNext = true;
+                    }
+                else {
+                        alwaysExecuteNext = false;
+                    }
+                if (wstatus == 0 || alwaysExecuteNext) { //If the exit status is 0, execute the next command in shell commands
                     pid_t pid;
+
 
                     /* Create a copy of the arguments vector and modify it 
                     to include the command name for the execvp function */
-                    std::vector <std::string> argumentCopy = cmd.args;
+                    std::vector <std::string> argumentCopy = cmd.args; 
                     auto it = argumentCopy.insert(argumentCopy.begin(),cmd.cmd.c_str());
 
                     /* Convert the string of vectors to an arrary of Character arrays for execvp */
@@ -63,27 +73,26 @@ int main()
                     }
                     argumentList[n] = NULL; //argument list must be null terminated
                     
-                    //////////// fork a child process //////////
+                    //fork the child process
                     pid = fork();
+                    
                     if (pid < 0) {
                         // fprintf(stderr, "Fork Failed");
                         return 1;
                     }
                     else if (pid == 0) {
-                        //printf("I am the child %d\n",pid);
-                        
                         /* After the fork, need to check if the output or input needs redirected */
                         int fd;	// file descriptor
                         if (cmd.cout_mode == ostream_mode::file) { /* redirect output to a file */
                             if ((fd = open(cmd.cout_file.c_str(), O_CREAT|O_TRUNC|O_WRONLY, 0644)) < 0) {
-				                //perror(argv[1]);	/* open failed */
+				                perror(cmd.cin_file.c_str());	/* open failed */
 				                exit(1);
 		                    }
                             dup2(fd,STDOUT_FILENO);
                         }
                         else if (cmd.cout_mode == ostream_mode::append) {
                             if ((fd = open(cmd.cout_file.c_str(), O_CREAT|O_APPEND|O_WRONLY, 0644)) < 0) {
-				                //perror(argv[1]);	/* open failed */
+				                perror(cmd.cin_file.c_str());	/* open failed */
 				                exit(1);
 		                    }
                             dup2(fd,STDOUT_FILENO);
@@ -96,14 +105,32 @@ int main()
 		                    }
                             dup2(fd,STDIN_FILENO);
                         }
-
                         execvp(argumentList[0], argumentList); //execvp the command with parameters
                     }
                     else {
                         // printf("I am the parent %d\n",pid);
-                        wait(NULL);
-                        // printf("Child Complete\n");
-                    }           
+                        wait(&wstatus);
+
+                        if (cmd.next_mode == next_command_mode::always) {
+                            wstatus = 0;
+                            // std::cout << "I am going to execute the next command because of ';'" << std::endl;
+                        }
+                        else if (cmd.next_mode == next_command_mode::on_success && wstatus == 0) {
+                            wstatus = 0;
+                            // std::cout << "I am going to execute the next command beause the previous command was successful" << std::endl;
+                        }
+                        else if (cmd.next_mode == next_command_mode::on_fail && wstatus != 0) {
+                            wstatus = 0;
+                            // std::cout << "I am going to execute the next command because the the previous command failed" << std::endl;
+                        }
+                        else {
+                            wstatus = 1;
+                            // std::cout << "I will not execute the next command" << std::endl; 
+                        }
+                    }
+                }
+                // else 
+                    // std::cout << "I am skipping the next command because the exit status is " << wstatus << std::endl;       
             }
 
             //Print the list of commands.
