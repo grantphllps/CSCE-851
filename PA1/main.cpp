@@ -97,12 +97,12 @@ int main()
 		                    }
                             dup2(fd,STDOUT_FILENO);
                         }
-                        else if (cmd.cin_mode == istream_mode::file) {
+                        if (cmd.cin_mode == istream_mode::file) {
                             //std::cout << "File input" << std::endl;
                             if ((fd = open(cmd.cin_file.c_str(), O_RDONLY, 0644)) < 0) {
 				                perror(cmd.cin_file.c_str());	/* open failed */
 				                exit(1);
-		                    }
+		                }
                             dup2(fd,STDIN_FILENO);
                         }
                         execvp(argumentList[0], argumentList); //execvp the command with parameters
