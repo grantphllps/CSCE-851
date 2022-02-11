@@ -19,6 +19,7 @@
 #include <vector>
 #include <unistd.h>
 #include <sys/wait.h>
+#include <cstring>
 
 #include "command.hpp"
 #include "parser.hpp"
@@ -29,13 +30,18 @@
 
 #define MAX_ALLOWED_LINES 25
 //ostream_mode file_comp = ostream_mode::file;
-int main()
+int main(int argc, char** argv)
 {
     std::string input_line;
 
     for (int i=0;i<MAX_ALLOWED_LINES;i++) { // Limits the shell to MAX_ALLOWED_LINES
         // Print the prompt.
+        if (argc > 1 && strcmp(argv[1],"-t") == 0){
+            // std::cout << "im not doing osh" << std::endl;
+        }
+        else {
         std::cout << "osh> " << std::flush;
+        }
 
         // Read a single line.
         if (!std::getline(std::cin, input_line) || input_line == "exit") {
@@ -45,24 +51,18 @@ int main()
         try {
             // Parse the input line, store the shell commands the vector
             std::vector<shell_command> shell_commands = parse_command_string(input_line);
-            int wstatus = 0; //initalize the status to go execute the first command
+            int wstatus = 0;
             bool alwaysExecuteNext = true; //this is an override flag to indicate that the next command should always execute
             //After the shell commands are parsed, execute each of the commands in the vector:
             for (const auto& cmd : shell_commands) {
-                if (cmd.next_mode == next_command_mode::always) {
-                        alwaysExecuteNext = true;
-                    }
-                else {
-                        alwaysExecuteNext = false;
-                    }
+
                 if (wstatus == 0 || alwaysExecuteNext) { //If the exit status is 0, execute the next command in shell commands
                     pid_t pid;
-
 
                     /* Create a copy of the arguments vector and modify it 
                     to include the command name for the execvp function */
                     std::vector <std::string> argumentCopy = cmd.args; 
-                    auto it = argumentCopy.insert(argumentCopy.begin(),cmd.cmd.c_str());
+                    argumentCopy.insert(argumentCopy.begin(),cmd.cmd.c_str());
 
                     /* Convert the string of vectors to an arrary of Character arrays for execvp */
                     int n = argumentCopy.size();
@@ -129,8 +129,12 @@ int main()
                         }
                     }
                 }
-                // else 
-                    // std::cout << "I am skipping the next command because the exit status is " << wstatus << std::endl;       
+                if (cmd.next_mode == next_command_mode::always) {
+                        alwaysExecuteNext = true;
+                    }
+                else {
+                        alwaysExecuteNext = false;
+                    }       
             }
 
             //Print the list of commands.
@@ -145,5 +149,5 @@ int main()
         }
     }
 
-    std::cout << std::endl;
+    // std::cout << std::endl;
 }
