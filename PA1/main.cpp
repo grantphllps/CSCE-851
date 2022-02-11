@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     std::string input_line;
 
     for (int i=0;i<MAX_ALLOWED_LINES;i++) { // Limits the shell to MAX_ALLOWED_LINES
-        // Print the prompt.
+        // Only print the prompt if the -t option is given.
         if (argc > 1 && strcmp(argv[1],"-t") == 0){
             // std::cout << "im not doing osh" << std::endl;
         }
@@ -51,16 +51,18 @@ int main(int argc, char** argv)
         try {
             // Parse the input line, store the shell commands the vector
             std::vector<shell_command> shell_commands = parse_command_string(input_line);
-            int wstatus = 0;
-            bool alwaysExecuteNext = true; //this is an override flag to indicate that the next command should always execute
-            //After the shell commands are parsed, execute each of the commands in the vector:
+            int wstatus = 0; 
+            bool alwaysExecuteNext = true; //Used to indicate if a command should be executed based on the previous operator
+            
+            //After the shell commands are parsed for a single line, begin to go through the commands in the line
             for (const auto& cmd : shell_commands) {
 
                 if (wstatus == 0 || alwaysExecuteNext) { //If the exit status is 0, execute the next command in shell commands
+                    
                     pid_t pid;
 
-                    /* Create a copy of the arguments vector and modify it 
-                    to include the command name for the execvp function */
+                    //Create a copy of the arguments vector and modify it to include the command name for the execvp function
+                    //This was more relevent for early debugging
                     std::vector <std::string> argumentCopy = cmd.args; 
                     argumentCopy.insert(argumentCopy.begin(),cmd.cmd.c_str());
 
